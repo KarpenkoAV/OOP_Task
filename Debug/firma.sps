@@ -1,0 +1,13 @@
+class FixWorker 1 Ivanov 1235
+class TimeWorker 2 Petrov 12.5
+class TimeWorker 3 Sidorov 10.2
+class FixWorker 4 Novil 1400
+class TimeWorker 5 Pedro 8.5
+class FixWorker 6 Toris 1274
+class FixWorker 7 Atarb 1400
+class TimeWorker 8 Gloris 8.4
+class FixWorker 9 Temes 3800
+class FixWorker 10 Roling 1980
+class TimeWorker 11 Boring 7.3
+class FixWorker 12 Yuliy 1400
+class FixWorker 14 tester 2200

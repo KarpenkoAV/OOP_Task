@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Firma">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIYAAAAAEEAAAAAgAEAEAAAAAAiACAAAA=</HashCode>
+      <FileName>Firma.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixWorker">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAAAgAAAAgAAAAAAQAAAA=</HashCode>
+      <FileName>FixWorker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeWorker">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAMAEAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TimeWorker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Worker">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAEAAAQAAAAAAAAAAAgEAAAAAAAkAAAJAAA=</HashCode>
+      <FileName>Worker.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
