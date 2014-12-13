@@ -1,21 +1,23 @@
-﻿Build started 21.03.2014 1:52:38.
-     1>Project "D:\C++Курсы\My_Project\Карпенко_А_Программы\ЗП_Фиксированная_Повременная\Task_ZP\Task_ZP.vcxproj" on node 2 (build target(s)).
+﻿Build started 13.12.2014 15:34:13.
+     1>Project "D:\Git_Repository\OOP_Task\Task_ZP\Task_ZP.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\Task_ZP.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
-         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Task_ZP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
          C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Task_ZP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Firma.cpp FixWorker.cpp Task_ZP.cpp TimeWorker.cpp Worker.cpp
-         Task_ZP.cpp
-         Generating Code...
-         Skipping... (no relevant changes detected)
          Worker.cpp
          TimeWorker.cpp
+         Task_ZP.cpp
          FixWorker.cpp
          Firma.cpp
+     1>d:\git_repository\oop_task\task_zp\firma.cpp(57): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\git_repository\oop_task\task_zp\firma.cpp(59): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
        ManifestResourceCompile:
-         All outputs are up-to-date.
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Task_ZP.exe.embed.manifest.res" Debug\Task_ZP_manifest.rc 
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C++Курсы\My_Project\Карпенко_А_Программы\ЗП_Фиксированная_Повременная\Debug\Task_ZP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Task_ZP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C++Курсы\My_Project\Карпенко_А_Программы\ЗП_Фиксированная_Повременная\Debug\Task_ZP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C++Курсы\My_Project\Карпенко_А_Программы\ЗП_Фиксированная_Повременная\Debug\Task_ZP.lib" /MACHINE:X86 Debug\Task_ZP.exe.embed.manifest.res
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Git_Repository\OOP_Task\Debug\Task_ZP.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Task_ZP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Git_Repository\OOP_Task\Debug\Task_ZP.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Git_Repository\OOP_Task\Debug\Task_ZP.lib" /MACHINE:X86 Debug\Task_ZP.exe.embed.manifest.res
          Debug\Firma.obj
          Debug\FixWorker.obj
          Debug\stdafx.obj
@@ -27,12 +29,12 @@
          All outputs are up-to-date.
        LinkEmbedManifest:
          All outputs are up-to-date.
-         Task_ZP.vcxproj -> D:\C++Курсы\My_Project\Карпенко_А_Программы\ЗП_Фиксированная_Повременная\Debug\Task_ZP.exe
+         Task_ZP.vcxproj -> D:\Git_Repository\OOP_Task\Debug\Task_ZP.exe
        FinalizeBuildStatus:
          Deleting file "Debug\Task_ZP.unsuccessfulbuild".
          Touching "Debug\Task_ZP.lastbuildstate".
-     1>Done Building Project "D:\C++Курсы\My_Project\Карпенко_А_Программы\ЗП_Фиксированная_Повременная\Task_ZP\Task_ZP.vcxproj" (build target(s)).
+     1>Done Building Project "D:\Git_Repository\OOP_Task\Task_ZP\Task_ZP.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.86
+Time Elapsed 00:00:01.46
